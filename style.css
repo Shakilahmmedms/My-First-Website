@@ -981,3 +981,10 @@ color: white;}
   .col-md-4 {display: initial;padding: 26px;}
 
   /*Protfoli end*/
+  .mapfor{
+    width: 1160px;
+    height: 300px;
+  }
+  .mapWeb{
+    padding: 10px;
+  }
