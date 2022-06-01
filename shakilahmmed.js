@@ -41,3 +41,5 @@ jQuery(function($) {
 			  }
 	  )
   });
+
+  /*Progress last*/
