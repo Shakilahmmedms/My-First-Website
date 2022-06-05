@@ -397,7 +397,7 @@ p {
 }
 /*Follow start*/
 .box-part.text-center:hover {
-  transform: translateX(-5px);
+  transform: scale(1.1);
   background: #fec608;
   color: black;
   
